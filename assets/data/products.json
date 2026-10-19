@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 89.9,
+    "description": "Over-ear Bluetooth headphones with active noise cancelling and up to 30 hours of battery life.",
+    "image": "assets/images/products/p01.png",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 149.0,
+    "description": "Fitness-focused smart watch with heart-rate tracking, sleep analysis and a bright always-on display.",
+    "image": "assets/images/products/p02.png",
+    "rating": 4.3
+  },
+  {
+    "id": 3,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 29.5,
+    "description": "20,000 mAh power bank with fast charging. Keeps your phone going for several days.",
+    "image": "assets/images/products/p03.png",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Classic Denim Jeans",
+    "category": "Clothing",
+    "price": 54.0,
+    "description": "Straight-fit jeans made from durable stretch denim. Comfortable for everyday wear.",
+    "image": "assets/images/products/p04.png",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "name": "Knit Wool Sweater",
+    "category": "Clothing",
+    "price": 64.9,
+    "description": "Soft, warm knitted sweater with a relaxed fit. A perfect layer for cold days.",
+    "image": "assets/images/products/p05.png",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "name": "Crime and Punishment",
+    "category": "Books",
+    "price": 12.9,
+    "description": "Dostoevsky's classic novel about guilt, morality and redemption in 19th-century St. Petersburg.",
+    "image": "assets/images/products/p06.png",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "name": "Les Miserables",
+    "category": "Books",
+    "price": 14.5,
+    "description": "Victor Hugo's epic story of justice and mercy, following Jean Valjean across decades of French history.",
+    "image": "assets/images/products/p07.png",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Hydrating Face Cream",
+    "category": "Beauty",
+    "price": 19.9,
+    "description": "Lightweight daily moisturizer with hyaluronic acid. Suitable for all skin types.",
+    "image": "assets/images/products/p08.png",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "name": "Eau de Parfum 50 ml",
+    "category": "Beauty",
+    "price": 79.0,
+    "description": "Fresh floral fragrance with citrus top notes and a warm, long-lasting base.",
+    "image": "assets/images/products/p09.png",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Porcelain Dinner Set",
+    "category": "Home",
+    "price": 119.0,
+    "description": "24-piece porcelain dinner set for six people. Dishwasher and microwave safe.",
+    "image": "assets/images/products/p10.png",
+    "rating": 4.1
+  },
+  {
+    "id": 11,
+    "name": "Kitchen Food Processor",
+    "category": "Home",
+    "price": 189.0,
+    "description": "Powerful 1000 W food processor with multiple blades for chopping, slicing and kneading.",
+    "image": "assets/images/products/p11.png",
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "name": "Decorative Cushion",
+    "category": "Home",
+    "price": 12.5,
+    "description": "Soft velvet cushion with a hidden zipper. Adds a cozy touch to any sofa.",
+    "image": "assets/images/products/p12.png",
+    "rating": 4.0
+  }
+]
